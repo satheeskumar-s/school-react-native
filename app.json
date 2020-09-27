@@ -1,0 +1,12 @@
+{
+  "name": "ReactNativeFrontEnd",
+  "displayName": "ReactNativeFrontEnd",
+  "expo": {
+    "name": "ReactNativeFrontEnd",
+    "slug": "ReactNativeFrontEnd",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
